@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
-Hey there! I'm a web developer from India! I'm always excited to dive into new technologies and keep up with the latest trends. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to improve my skills. Let's build some awesome stuff together!
+Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to dive into new technologies and keep up with the latest trends. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to improve my skills. Let's build some awesome stuff together!
 
 - 🔭 I’m currently working on **an Ed-Tech project with React, Tailwind and Node**
 
