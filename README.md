@@ -31,6 +31,9 @@ Hey there! I'm a web developer from India! I'm always excited to dive into new t
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </p>
 
+<ul class="skill-info__skills"><li class="skill-info__skills__skill">html</li><li class="skill-info__skills__skill">css</li><li class="skill-info__skills__skill">javascript</li><li class="skill-info__skills__skill">react</li><li class="skill-info__skills__skill">typescript</li><li class="skill-info__skills__skill">git</li><li class="skill-info__skills__skill">vscode</li><li class="skill-info__skills__skill">tailwind</li><li class="skill-info__skills__skill">styled components</li><li class="skill-info__skills__skill">sass</li><li class="skill-info__skills__skill">firebase</li><li class="skill-info__skills__skill">figma</li></ul>
+
+
 <hr>
 
 <h3 align="left">Stats:</h3>
