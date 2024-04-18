@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=30&duration=2000&pause=1000&color=1B93F7&background=FFFFFF00&multiline=true&random=false&width=635&height=90&lines=Hey!+Nice+to+meet+you%2C+I'm+Bhuvan+Thota.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h3 align="left">About me:</h3>
