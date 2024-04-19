@@ -43,6 +43,6 @@ Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TeacherBCode&show_icons=true&theme=tokyonight&locale=en" alt="TeacherBCode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TeacherBCode&theme=highcontrast" alt="TeacherBCode" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=TeacherBCode&theme=dark&border_radius=20)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TeacherBCode&label=Profile%20views&color=9edaff&style=flat" alt="TeacherBCode" /> </p>
