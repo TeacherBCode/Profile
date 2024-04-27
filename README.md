@@ -38,10 +38,12 @@ Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to 
 
 <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/75edbd98-55c1-4d34-88e4-820d282c141f" alt="work in progress" width="300"  />
 
-<p><strong>Learning </strong>Languages and Tools:</p> <br>
+<h3 align="left"><strong>Learning </strong>Languages and Tools:</h3> <br>
 <p align="left">   
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/af16903e-537b-45e4-a5ec-d457206fec33" alt="Redux" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/b5efe7d9-d24d-4234-997b-80be8e891cba" alt="Node js" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/d608d643-bd19-4446-8398-07dcd1399732" alt="Next Js" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/5182f86f-9648-4512-b1f5-6214cef38b66" alt="Express js" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/b1af39e0-d0a9-4ea8-b897-0a2938a09ffb" alt="My SQL" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/8ce39659-2852-4c1d-a510-b35c5cc0d490" alt="Mongo DB" width="40" height="40"/> 
@@ -49,9 +51,7 @@ Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to 
   
     
 </p>
-<p>FireBase,   Node.js,    Express.js,  MySQL,   MongoDB,  PostgreSQL,       </p>
-
-
+<p>Redux,   Node.js,   Next.js,    FireBase,   Express.js,  MySQL,   MongoDB,  PostgreSQL       </p>
 
 
 
