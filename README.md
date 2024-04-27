@@ -8,7 +8,7 @@ Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to 
 
 - 🔭 I’m currently working on **an Ed-Tech project with React, Tailwind and Node**
 
-- 🌱 I’m currently learning **PostgreSql and Firebase**
+- 🌱 I’m currently learning **Backend: PostgreSql and Firebase**
 
 - 📫 How to reach me bhuvan.thota3@gmail.com or **👇**
 
