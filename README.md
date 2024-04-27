@@ -29,11 +29,28 @@ Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/ />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </p>
 
-<p>HTML,   CSS,   Javascript,   React,   Typescript,   Git,   Bootstrap,   Tailwind,   FireBase,   Figma </p>
+<p>HTML,   CSS,   Javascript,   React,   Typescript,   Git,   Bootstrap,   Tailwind,      Figma </p>
+<hr>
+
+<img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/75edbd98-55c1-4d34-88e4-820d282c141f" alt="work in progress" width="300"  />
+
+<p><strong>Learning </strong>Languages and Tools:</p> <br>
+<p align="left">   
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/b5efe7d9-d24d-4234-997b-80be8e891cba" alt="Node js" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/5182f86f-9648-4512-b1f5-6214cef38b66" alt="Express js" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/b1af39e0-d0a9-4ea8-b897-0a2938a09ffb" alt="My SQL" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/47d254ae-eca5-48c0-906c-ff8dc00328ed" alt="Mongo DB" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/5a22f832-c2f7-463e-ade4-82cd498e787b" alt="Postgre SQL" width="40" height="40"/> 
+  
+    
+</p>
+<p>FireBase,   Node.js,    Express.js,  MySQL,   MongoDB,  PostgreSQL,       </p>
+
 
 <hr>
 
