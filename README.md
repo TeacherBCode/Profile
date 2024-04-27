@@ -44,12 +44,14 @@ Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/b5efe7d9-d24d-4234-997b-80be8e891cba" alt="Node js" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/5182f86f-9648-4512-b1f5-6214cef38b66" alt="Express js" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/b1af39e0-d0a9-4ea8-b897-0a2938a09ffb" alt="My SQL" width="40" height="40"/> 
-  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/47d254ae-eca5-48c0-906c-ff8dc00328ed" alt="Mongo DB" width="40" height="40"/> 
-  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/5a22f832-c2f7-463e-ade4-82cd498e787b" alt="Postgre SQL" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/8ce39659-2852-4c1d-a510-b35c5cc0d490" alt="Mongo DB" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/e224ae93-b341-418b-b74c-4521569edac1" alt="Postgre SQL" width="40" height="40"/> 
   
     
 </p>
 <p>FireBase,   Node.js,    Express.js,  MySQL,   MongoDB,  PostgreSQL,       </p>
+
+
 
 
 <hr>
