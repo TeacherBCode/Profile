@@ -66,3 +66,5 @@ Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TeacherBCode&theme=dark&border_radius=20)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TeacherBCode&label=Profile%20views&color=9edaff&style=flat" alt="TeacherBCode" /> </p>
+
+
