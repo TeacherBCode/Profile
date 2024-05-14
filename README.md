@@ -6,7 +6,7 @@
 
 Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to dive into new technologies and keep up with the latest trends. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to improve my skills. Let's build some awesome stuff together!
 
-- 🔭 I’m currently working on **an project with React, Tailwind and Typescript**
+- 🔭 I’m currently working on **a project with React, Tailwind and Typescript**
 
 - 🌱 I’m currently learning **Backend: Nodejs, PostgreSql and Firebase(Auth)**
 
