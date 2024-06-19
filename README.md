@@ -4,11 +4,9 @@
 
 <h3 align="left">About me:</h3>
 
-Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to dive into new technologies and keep up with the latest trends. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to improve my skills. Let's build some awesome stuff together!
+Hey there! I'm a Software Developer from India! I'm always excited to dive into new technologies and keep up with the latest trends. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to improve my skills. Let's build some awesome stuff together!
 
-- 🔭 I’m currently working on **a project with React, Tailwind and Typescript**
-
-- 🌱 I’m currently learning **Backend: Nodejs, PostgreSql and Firebase(Auth)**
+- 🌱 I’m currently learning **Backend: Java, Spring and Sql**
 
 - 📫 How to reach me bhuvan.thota3@gmail.com or **👇**
 
@@ -40,18 +38,14 @@ Hey there! I'm a Frontend developer(React.js) from India! I'm always excited to 
 
 <h3 align="left"><strong>Learning </strong>Languages and Tools:</h3> <br>
 <p align="left">   
-  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/af16903e-537b-45e4-a5ec-d457206fec33" alt="Redux" width="40" height="40"/> 
-  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/b5efe7d9-d24d-4234-997b-80be8e891cba" alt="Node js" width="40" height="40"/> 
-  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/d608d643-bd19-4446-8398-07dcd1399732" alt="Next Js" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/5182f86f-9648-4512-b1f5-6214cef38b66" alt="Express js" width="40" height="40"/> 
+  <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/9a5621d7-79f9-4ad9-9a5f-5a1f1776de67" alt="Java" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/b1af39e0-d0a9-4ea8-b897-0a2938a09ffb" alt="My SQL" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/8ce39659-2852-4c1d-a510-b35c5cc0d490" alt="Mongo DB" width="40" height="40"/> 
   <img src="https://github.com/TeacherBCode/TeacherBCode/assets/156999512/e224ae93-b341-418b-b74c-4521569edac1" alt="Postgre SQL" width="40" height="40"/> 
   
     
 </p>
-<p>Redux,   Node.js,   Next.js,    FireBase,   Express.js,  MySQL,   MongoDB,  PostgreSQL       </p>
+<p>Java,  MySQL,   MongoDB,  PostgreSQL       </p>
 
 
 
